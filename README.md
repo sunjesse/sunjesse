@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunjesse
-- 👀 I’m interested in applied math (i.e. optimization, game theory, etc.), machine learning/data science, and algorithms!
+- 👀 I’m interested in applied math (i.e. optimization, game theory, etc.), machine learning + data science, and algorithms!
 - 📫 How to reach me: j294sun@uwaterloo.ca
 
 <!---
