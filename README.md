@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunjesse
-- 👀 I’m interested in applied math (i.e. optimization, game theory, etc.), machine learning + data science, and algorithms!
+- 👀 I’m interested in applied math, machine learning, data science, algorithms, and distributed systems!
 - 📫 How to reach me: jessera@outlook.com
 
 <!---
