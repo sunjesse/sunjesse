@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunjesse
-- 👀 I’m interested in applied math, machine learning, data science, algorithms, and data-intensive distributed systems for high performance computing!
+- I'm interested in data & ML infrastructure, distributed systems, and performance optimization!
 - 📫 How to reach me: jessera@outlook.com
 
 <!---
